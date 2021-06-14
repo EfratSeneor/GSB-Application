@@ -338,3 +338,4 @@ function nbErreurs()
        }
        return $numAnnee . $numMois;
    }
+
